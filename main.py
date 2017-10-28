@@ -1,9 +1,3 @@
-term = "Hello World"
+print("Hello World")
 
-def wow(term):
-    if term == "Hello World"
-        print ("ni hao shi jie")
-    else:
-        pass
-
-wow(term)
+# Need to decide what to actually code...
