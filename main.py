@@ -1,2 +1,1 @@
-## ni hao shijie
-heyasdasdasd
+print("TEST")
